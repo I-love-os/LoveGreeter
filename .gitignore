@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+lovegreeter.so
+lovegreeter.dylib
+lovegreeter.dll
+lovegreeter.a
+lovegreeter.lib
+lovegreeter-test-*
+*.exe
+*.o
+*.obj
+*.lst

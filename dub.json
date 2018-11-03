@@ -1,0 +1,16 @@
+{
+	"name": "lovegreeter",
+	"authors": [
+		"maak4422",
+		"yknomeh",
+		"MineBartekSA"
+	],
+	"dependencies": {
+		"gtk-d:gtkd": {
+		"version": "3.8.3"
+		}
+	},
+	"description": "Greeter for I <3 OS",
+	"copyright": "Copyright © 2018, I-Love-OS",
+	"license": "proprietary"
+}
